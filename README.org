@@ -1,0 +1,10 @@
+* cl-rethinkdb
+
+RethinkDB driver for Common Lisp 
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/orthecreedence/cl-rethinkdb.git   |
+| commit  | f435e72  |
+| systems | cl-rethinkdb |
+|---------+-------------------------------------------|
+
